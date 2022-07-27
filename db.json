@@ -1,1 +1,31 @@
-{}
+{
+  "users" : [
+    {
+      "id": 1,
+      "name": "Pedro",
+      "email": "pedro@mail.com",
+    },
+    {
+      "id": 2,
+      "name": "Paulo",
+      "email": "paulo@mail.com",
+    }
+  ],
+  "toDos": [
+        {
+          "title": "Fazer API",
+          "status": "pendente",
+          "userId": 1,
+        },
+        {
+          "title": "Fazer Front-End",
+          "status": "pendente",
+          "userId": 1,
+        },
+        {
+          "title": "Construir documentação",
+          "status": "concluído",
+          "userId": 2,
+        }
+      ],
+}
