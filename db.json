@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Paulo",
       "email": "paulo@mail.com"
+    },
+    {
+      "id": 3,
+      "name": "João",
+      "email": "joao@mail.com"
     }
   ],
   "toDos": [
@@ -26,6 +31,16 @@
       "title": "Construir documentação",
       "status": "concluído",
       "userId": 2
+    },
+    {
+      "title": "Imprimir currículos",
+      "status": "concluído",
+      "userId": 3
+    },
+    {
+      "title": "Distribiur currículos",
+      "status": "pendente",
+      "userId": 3
     }
   ]
 }
